@@ -5,5 +5,5 @@
 
 >Fancy Right !!
 
-![TS JS](https://github.com/ehzShelter/pokingWithTS/blob/master/vim_Awesome.png)
+![TS JS](https://github.com/ehzShelter/pokingWithTS/blob/master/hell.png)
 
